@@ -1,4 +1,7 @@
 #!/usr/bin/python
+#Distributed Systems Project 
+#Tabish Imran
+#20130242 Section - B
 
 import mechanize
 from bs4 import *
